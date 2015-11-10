@@ -1,3 +1,3 @@
 git is a version control system.
-git is free software.
+git is free software under GPL.
 git is great.
